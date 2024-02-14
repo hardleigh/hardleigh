@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--lah-testworkspace",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/8101a1cd-0803-48d1-ae1e-2cd5fc8d8cc0/resourceGroups/resourceGroupla/providers/Microsoft.Synapse/workspaces/lah-testworkspace",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"lah-testworkspace-ondemand.4eb26773-9009-4d05-8dae-1c98e9867228.sql.azuresynapse.net"
+		]
+	}
+}

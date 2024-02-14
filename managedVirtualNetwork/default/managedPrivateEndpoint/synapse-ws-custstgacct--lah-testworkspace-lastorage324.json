@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--lah-testworkspace-lastorage324",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/8101a1cd-0803-48d1-ae1e-2cd5fc8d8cc0/resourceGroups/resourceGroupla/providers/Microsoft.Storage/storageAccounts/lastorage324",
+		"groupId": "dfs"
+	}
+}
